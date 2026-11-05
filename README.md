@@ -56,13 +56,13 @@
 
 <p align="center">
   <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square" alt="License">
   </a>
   <a href="package.json">
-    <img src="https://img.shields.io/badge/version-15.9.0-green.svg" alt="Version">
+    <img src="https://img.shields.io/badge/version-15.9.0-green.svg?style=flat-square" alt="Version">
   </a>
   <a href="package.json">
-    <img src="https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen.svg" alt="Node">
+    <img src="https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen.svg?style=flat-square" alt="Node">
   </a>
   <a href="https://github.com/thedotmack/awesome-claude-code">
     <img src="https://awesome.re/mentioned-badge.svg" alt="Mentioned in Awesome Claude Code">
@@ -76,6 +76,41 @@
 </p>
 
 <br>
+
+<!-- readme-showcase:start -->
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="#quick-start"><img src="./.github/readme-covers/quick-start.webp" alt="Quick start" width="100%"></a>
+<br/><a href="#quick-start"><strong>Quick start</strong></a>
+<br/><sub>Install</sub>
+</td>
+<td width="50%" valign="top">
+<a href="#how-it-works"><img src="./.github/readme-covers/how-it-works.webp" alt="How it works" width="100%"></a>
+<br/><a href="#how-it-works"><strong>How it works</strong></a>
+<br/><sub>Architecture</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="#mcp-search-tools"><img src="./.github/readme-covers/search.webp" alt="Search tools" width="100%"></a>
+<br/><a href="#mcp-search-tools"><strong>Search tools</strong></a>
+<br/><sub>MCP</sub>
+</td>
+<td width="50%" valign="top">
+<a href="#configuration"><img src="./.github/readme-covers/config.webp" alt="Configuration" width="100%"></a>
+<br/><a href="#configuration"><strong>Configuration</strong></a>
+<br/><sub>Setup</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+> This is a fork of [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem). Everything below the gallery is upstream's README.
+<!-- readme-showcase:end -->
 
 <table align="center">
   <tr>
